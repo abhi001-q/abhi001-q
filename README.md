@@ -21,9 +21,7 @@ I'm Abhishek Goswami, a frontend developer for building websites with HTML, Java
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi001-q&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-<br>
 
-![](https://komarev.com/ghpvc/?username=abhi001-q&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
